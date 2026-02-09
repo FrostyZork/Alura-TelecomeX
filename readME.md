@@ -105,4 +105,6 @@ Columnas transformadas:
 
 - NumPy
 
+- Matplotlib
+
 - Jupyter Notebook
